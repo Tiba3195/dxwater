@@ -7,5 +7,5 @@ The **WASD** keys will move the camera (and you can hold **Q** to run), **Left m
 
 ![Calm pool](https://raw.githubusercontent.com/george7378/dxwater/master/_img/1.png)
 ![Reflective floor](https://raw.githubusercontent.com/george7378/dxwater/master/_img/2.png)
-![Hovering light](https://raw.githubusercontent.com/george7378/dxwater/master/_img/3.png)
-![Pool closeup](https://raw.githubusercontent.com/george7378/dxwater/master/_img/4.png)
+![Pool closeup](https://raw.githubusercontent.com/george7378/dxwater/master/_img/3.png)
+![Flooded room](https://raw.githubusercontent.com/george7378/dxwater/master/_img/4.png)
